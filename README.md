@@ -1,3 +1,8 @@
+Nomes: 
+Felipe Capriotti – rm98460 
+Manoella Herrerias Waideman – rm98906 
+Victor Hugo Andrade – rm550996
+
 # Guard Blackout – SOA
 
 Projeto desenvolvido para disciplina de Arquitetura Orientada a Serviços.
