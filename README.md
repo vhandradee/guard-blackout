@@ -11,5 +11,6 @@ Estimar o risco de blackout com base em dados climáticos em tempo real, consumi
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/guard-blackout.git
+git clone https://github.com/vhandradee/guard-blackout.git
 cd guard-blackout
+
